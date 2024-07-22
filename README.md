@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryafrndk&label=Profile%20views&color=0e75b6&style=flat" alt="aryafrndk" /> </p>
 
-- 👨‍💻 All of my projects are available at [aryafrandikadaulay.vercel.app/](aryafrandikadaulay.vercel.app/)
+- 👨‍💻 All of my projects are available at [aryafrandikadaulay.vercel.app/](https://aryafrandikadaulay.vercel.app/)
 
 - 📫 How to reach me **aryafrandika0408@gmail.com**
 
