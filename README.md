@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Frandika Daulay</h1>
-<h3 align="center">Students from Telkom University Bandung who have interests and skills in web development, especially in the field of Front-End Development. With a good understanding of HTML, CSS and JavaScript. I am excited to apply my knowledge in the environment professional one.</h3>
+<h3 align="center">Students who have interest and skills in web development, especially in Front-End Development. With a good understanding of HTML, CSS, and JavaScript. I am excited to apply my knowledge in a professional environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryafrndk&label=Profile%20views&color=0e75b6&style=flat" alt="aryafrndk" /> </p>
 
